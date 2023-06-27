@@ -6,7 +6,9 @@
  * @LastEditors: zhoukai
  * @LastEditTime: 2023-06-26 09:51:08
 -->
-
+# 更新
+- 安装react-with-better-scroll，替换默认的frame-view组件或者新增一个组件，不需要全部使用frame-view
+---
 # 简介
 
 react-h5-tmp 是基于 create-react-app(v5) 创建并使用 Ant Design Mobile + JavaScript + craco + Redux + sass + Rem 布局适配 + axios（封装）+ Eslint + Prettier 等流行技术栈构建移动端模板脚手架，开箱即用。
